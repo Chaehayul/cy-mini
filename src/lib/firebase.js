@@ -11,7 +11,7 @@ import { getFirestore } from "firebase/firestore"; // 👈 Firestore를 위해 �
 // 🔑 (이 부분은 나중에 꼭 재설정 하시고, 공유하지 마세요!)
 const firebaseConfig = {
   apiKey: "AIzaSyDbp-DUiinfGqg2bMc-CCwfILawDAvkHWU",
-  authDomain: "hayul02.firebaseapp.com",
+  authDomain: "cy-mini.vercel.app",
   projectId: "hayul02",
   storageBucket: "hayul02.firebasestorage.app",
   messagingSenderId: "1041189249093",
